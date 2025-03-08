@@ -1,5 +1,4 @@
 # WSAD-Game
-# WSAD-Game
 
 ## How to Play:
 - Use **'W'** to move **M** up.
